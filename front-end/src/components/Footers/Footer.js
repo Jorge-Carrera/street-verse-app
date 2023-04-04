@@ -34,7 +34,7 @@ export default function Footer() {
                   className="bg-white text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
-                  <a href="https://github.com/JimmyAyivor/street-verse-app">
+                  <a href="https://github.com/Jorge-Carrera/street-verse-app">
                     <FontAwesomeIcon icon="fa-brands fa-github" />
                   </a>
                 </button>
@@ -111,33 +111,37 @@ export default function Footer() {
             <div className="w-full md:w-4/12 px-4 mx-auto text-center">
               <div className="text-sm text-blueGray-500 font-semibold py-1">
                 Copyright © {new Date().getFullYear()} StreetVerse by{" "}
-                <Link
-                  to="https://github.com/JimmyAyivor?ref=svc-footer"
+                <a
+                  href="https://github.com/JimmyAyivor?ref=svc-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
+                  target="_blank"
                 >
                   Jimmy
-                </Link>
+                </a>
                 ,
-                <Link
-                  to="https://github.com/Jorge-Carrera?ref=svc-footer"
+                <a
+                  href="https://github.com/Jorge-Carrera"
                   className="text-blueGray-500 hover:text-blueGray-800"
+                  target="_blank"
                 >
                   Jorge
-                </Link>
+                </a>
                 ,
-                <Link
-                  to="https://www.creative-tim.com?ref=svc-footer"
+                <a
+                  href="https://github.com/ctay47"
                   className="text-blueGray-500 hover:text-blueGray-800"
+                  target="_blank"
                 >
                   Christine
-                </Link>
+                </a>
                 ,
-                <Link
-                  to="https://github.com/Nique444?ref=svc-footer"
+                <a
+                  href="https://github.com/Nique444?ref=svc-footer"
                   className="text-blueGray-500 hover:text-blueGray-800"
+                  target="_blank"
                 >
                   TK
-                </Link>
+                </a>
               </div>
             </div>
           </div>
