@@ -5,8 +5,7 @@ export default function membership() {
     <>
       <section className=" text-black mt-36">
         <div className="container max-w-auto p-6 py-12 mx-auto space-y-24 lg:px-8 lg:max-w-7xl">
-        <div className=" container text-center mx-auto flex flex-col items-center justify-center space-y-8 md:p-10 md:px-24 xl:px-48 z-30 p-5 bg-blueGray-200	 bg-opacity-50 rounded-xl">
-
+          <div className=" container text-center mx-auto flex flex-col items-center justify-center space-y-8 md:p-10 md:px-24 xl:px-48 z-30 p-5 bg-blueGray-200	 bg-opacity-50 rounded-xl">
             <h2 className="text-5xl font-['Play'] text-gray-800 text-[42px] uppercase font-bold tracking-tight text-center sm:text-5xl">
               M e m b e r s h i p
             </h2>
@@ -195,8 +194,8 @@ export default function membership() {
                       <p className="mt-2 text-[20px] font-['Play'] text-gray-500">
                         Get access to early details and information to the
                         latest fashion trends, and{" "}
-                        <span className="inline font-bold">exclusive</span> access to
-                        the most sought after fashion drops.
+                        <span className="inline font-bold">exclusive</span>{" "}
+                        access to the most sought after fashion drops.
                       </p>
                     </div>
                   </div>
@@ -366,6 +365,7 @@ export default function membership() {
           <a
             href="https://streetverse-nft-mint.netlify.app/"
             className="inline-flex items-center px-6 py-3 rounded-lg outline outline-2 outline-red-600 text-black"
+            target="_blank"
           >
             <img
               className="h-9"
@@ -379,7 +379,7 @@ export default function membership() {
           <a
             href="https://metamask.io/"
             className="inline-flex items-center px-5 py-3 rounded-lg outline outline-2 outline-red-600 text-black"
-          target="_blank" rel="noreferrer"
+            target="_blank"
           >
             <div>
               <img className="h-9" src="/img/metamask.svg" alt="metamask" />

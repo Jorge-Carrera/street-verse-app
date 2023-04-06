@@ -11,7 +11,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const UserDropdown = () => {
 let user = useAuthState(auth)
 
-  // console.log(user[0].photoURL );
   const navigate = useNavigate()
   const handleLogout = async () => {
     try {

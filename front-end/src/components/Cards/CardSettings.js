@@ -38,7 +38,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Username
                   </label>
@@ -56,7 +56,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Email address
                   </label>
@@ -74,7 +74,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     First Name
                   </label>
@@ -92,7 +92,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Last Name
                   </label>
@@ -117,7 +117,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Url
                   </label>
@@ -143,7 +143,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                    Address
                   </label>
@@ -161,7 +161,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     City
                   </label>
@@ -179,7 +179,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Country
                   </label>
@@ -197,7 +197,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Postal Code
                   </label>
@@ -223,7 +223,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     Occupation
                   </label>
@@ -241,7 +241,7 @@ export default function CardSettings({
                 <div className="relative w-full mb-3">
                   <label
                     className="block uppercase text-blueGray-600 text-xs font-bold mb-2"
-                    htmlFor="grid-password"
+                    
                   >
                     About me
                   </label>
